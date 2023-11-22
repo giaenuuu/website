@@ -1,2 +1,2 @@
-# website
-My website
+# giaenuuu's Website
+## Built with Astro
